@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yMmnbJKR2RvyC6X/h26xsgmfJS8Q7mBwEAbNDJ5F3Vs=",
+  "Source": "pizza-dotnet-api",
+  "BasePath": "_content/pizza-dotnet-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
