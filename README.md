@@ -1,2 +1,2 @@
 # pizza-dotnet-api
- A Pizza CRUD API Server in C%
+ A Pizza CRUD API Server using .NET
